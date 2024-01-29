@@ -1,0 +1,8 @@
+﻿  repository.c
+F:\OOP\a3\a3\repository.c(51,22): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+F:\OOP\a3\a3\repository.c(53,37): warning C4047: '=': 'TElement **' differs in levels of indirection from 'TElement *'
+F:\OOP\a3\a3\repository.c(54,13): warning C4013: 'printf' undefined; assuming extern returning int
+F:\OOP\a3\a3\repository.c(52,1): warning C4047: 'initializing': 'TElement *' differs in levels of indirection from 'TElement **'
+F:\OOP\a3\a3\repository.c(168,22): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+F:\OOP\a3\a3\repository.c(185,23): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open F:\OOP\a3\a3\Debug\a3.exe for writing
